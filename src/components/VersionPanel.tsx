@@ -394,6 +394,7 @@ export const VersionPanel: React.FC<VersionPanelProps> = ({
                       </p>
                     </div>
                   </div>
+                  {/*
                   <a
                     href='https://github.com/MoonTechLab/LunaTV'
                     target='_blank'
@@ -403,6 +404,7 @@ export const VersionPanel: React.FC<VersionPanelProps> = ({
                     <CheckCircle className='w-3 h-3 sm:w-4 sm:h-4' />
                     前往仓库
                   </a>
+                  */}
                 </div>
               </div>
             )}
